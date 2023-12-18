@@ -1,0 +1,100 @@
+music_video_clip:
+  menu: Music Clip
+  title: Music Clip
+  CLASSIC: Classic
+  ETHNIC: Ethnic
+  HIPHOP: Hip-Hop
+  JAZZ: Jazz
+  POP_FOREIGN: Pop Foreign
+  POP_NATIVE: Pop Native
+  RB: R & B
+  ROCK_FOREIGN: Rock Foreign
+  ROCK_NATIVE: Rock Native
+music_mp3:
+  menu: Music
+  title: Music
+  CLASSIC: Classic
+  ETHNIC: Ethnic
+  HIPHOP: Hip-Hop
+  JAZZ: Jazz
+  POP_FOREIGN: Pop Foreign
+  POP_NATIVE: Pop Native
+  RB: R & B
+  ROCK_FOREIGN: Rock Foreign
+  ROCK_NATIVE: Rock Native
+tv:
+  title: Tv Channel List
+  short: Tv
+  menu: Television
+rd:
+  long: Radio
+  menu: Radio
+  title: Radio Channel List
+kids:
+  menu: Kids
+  title: Kids Movie
+film:
+  menu: Cinema
+  title: Cinema
+  ACTION: Action
+  ADVENTURE: Adventure
+  COMEDY: Comedy
+  HORROR: Horror
+  DRAMA: Drama
+  CHILD: Child
+  DOCUMENTARY: Documentary
+  ROMANTIC: Romantic
+title: Blueroad Tv Box
+survey:
+  menu: Survey
+  list: Survey List
+contact:
+  menu: Contact
+about:
+  menu: About Us
+ebook:
+  pdf:
+    menu: Ebook Pdf
+    pdfview: Blueroad Ebook Reader
+    title: E-book Pdf
+  audio:
+    menu: Ebook Audio
+    title: E-book Audio
+quran:
+  video:
+    menu: Quran Video
+    title: Quran
+  audio:
+    menu: Quran Audio
+    title: Quran
+tv_series:
+  menu: Tv Series
+  title: Tv Series
+camera:
+  menu: Bus Camera
+  title: Bus Camera
+gallery:
+  menu: Gallery
+  title: Travel Gallery
+global:
+  loading: Loading..
+  not_found_survey: Survey Not Found
+  please_use_headphone: Please Wear Headphones !
+  please_wear_belt: Please Fasten Your Seat Belt !
+  select_language: Select Language
+  choose_language: Choose language
+  whatsapp: Write on Whatsapp
+  call: Call us
+  sms: Write us your message
+  ticket: Get your ticket
+  contact-us: Contact us
+  content: Content
+  selected: Suggestions for You
+  survey: Take our survey
+
+kk:
+  menu:
+    ticket: Buy Tickets
+    form: Contact Form
+    whatsapp: Whatsapp Line
+    call: Call center

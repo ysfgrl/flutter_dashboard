@@ -1,0 +1,100 @@
+music_video_clip:
+  menu: Müzik Klip
+  title: Müzik Klip
+  CLASSIC: Klasik
+  ETHNIC: Etnik
+  HIPHOP: Hip-Hop
+  JAZZ: Jazz
+  POP_FOREIGN: Yabancı Pop
+  POP_NATIVE: Yerli Pop
+  RB: R & B
+  ROCK_FOREIGN: Yabancı Rock
+  ROCK_NATIVE: Yerli Rock
+music_mp3:
+  menu: Müzik MP3
+  title: Müzik MP3
+  CLASSIC: Klasik
+  ETHNIC: Etnik
+  HIPHOP: Hip-Hop
+  JAZZ: Jazz
+  POP_FOREIGN: Yabancı Pop
+  POP_NATIVE: Yerli Pop
+  RB: R & B
+  ROCK_FOREIGN: Yabancı Rock
+  ROCK_NATIVE: Yerli Rock
+tv:
+  title: TV Kanal Liste
+  short: Tv
+  menu: Televizyon
+rd:
+  long: Radyo
+  menu: Radyo
+  title: Radyo Kanal Liste
+kids:
+  menu: Çocuk
+  title: Çocuk Film
+film:
+  menu: Sinema
+  title: Sinema
+  ACTION: Aksiyon
+  ADVENTURE: Macera
+  COMEDY: Komedi
+  HORROR: Gerilim
+  DRAMA: Drama
+  CHILD: Aile
+  DOCUMENTARY: Belgesel
+  ROMANTIC: Romantik
+title: Blueroad Tv Box
+survey:
+  menu: Anket
+  list: Anket Liste
+contact:
+  menu: İletişim
+about:
+  menu: Hakkımızda
+ebook:
+  pdf:
+    menu: Elektronik Kitap PDF
+    pdfview: Blueroad Ebook Okuyucu
+    title: Elektronik Kitap PDF
+  audio:
+    menu: Elektronik Kitap Sesli
+    title: Elektronik Kitap Sesli
+quran:
+  video:
+    menu: Kur'an Video
+    title: Kur'an
+  audio:
+    menu: Kur'an Sesli
+    title: Kur'an
+tv_series:
+  menu: Tv Dizi
+  title: Tv Dizi
+camera:
+  menu: Kamera
+  title: Kamera
+gallery:
+  menu: Galeri
+  title: Galeri Seyahat
+global:
+  loading: Yükleniyor..
+  not_found_survey: Anket Bulunamadı
+  please_use_headphone: Lütfen Kulaklık Kullanınız !
+  please_wear_belt: Lütfen Emniyet Kemerinizi Takınız !
+  select_language: Dil Seçimi
+  choose_language: Dil Seçimi
+  whatsapp: Whatsapp İletişim
+  call: Bizi Arayın
+  sms: Bize Mesaj Yazın
+  ticket: Biletinizi Ayırtınız
+  contact-us: İletişim
+  content: İçerik
+  selected: Sizin için Önerilen
+  survey: Ankete Katılın
+
+kk:
+  menu:
+    ticket: Bilet Satın Al
+    form: iletişim Formu
+    whatsapp: Whatsapp Hattı
+    call: Çağrı Merkezi

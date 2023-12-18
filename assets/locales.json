@@ -1,0 +1,14 @@
+[
+  {
+    "title": "English",
+    "subTitle": "English",
+    "languageCode": "en",
+    "countryCode": "US"
+  },
+  {
+    "title": "Türkçe",
+    "subTitle": "Türkçe",
+    "languageCode": "tr",
+    "countryCode": "TR"
+  }
+]
